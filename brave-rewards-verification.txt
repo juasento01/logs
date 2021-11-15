@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: boxed.monster
+Token: 500e13f531d059c59fb7fe40e4e2e0601d071b18b9aa85c5997edc7707f7525c
